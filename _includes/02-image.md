@@ -1,1 +1,1 @@
-<img src="smiley.gif" alt="Smiley face">
+![picture alt](http://via.placeholder.com/200x150 "Smiley face")
